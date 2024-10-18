@@ -47,14 +47,6 @@ Make sure you have a modern web browser installed to open the project files.
 - Press the `=` button to calculate the result.
 - Use the `C` button to clear the current calculation.
 
-## Contributing
-
-If you'd like to contribute to improving this project, feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Acknowledgements
 
 - Inspired by the basic need for a simple and functional calculator.
